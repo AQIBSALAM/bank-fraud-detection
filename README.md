@@ -7,7 +7,9 @@ Fraud detection on a simulated mobile-money dataset. SQL (MySQL) for loading and
 **Status:** Phase 1 SQL: in progress | Phase 2 Python: done | Phase 3 Power BI: not started
 
 ## Dataset
-- Source: Kaggle "FraudScan-6M" (PaySim-style, **simulated** data). Add link here.
+- Source: Kaggle "FraudScan-6M" (PaySim-style, **simulated** data). 
+https://www.kaggle.com/datasets/anidiptapal/fraud-detection-1000-rows/data.
+
 - 6,362,620 rows, 11 columns. 8,213 fraud rows (0.13%).
 
 ## Key findings
